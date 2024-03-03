@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavik2209&label=Profile%20views&color=0e75b6&style=flat" alt="bhavik2209" /> </p>
 
-- 🔭 I’m currently working on **Web Backend**
-
-- 🌱 I’m currently learning **Node.js and Express**
+- 🔭 I’m currently learning **Machine Learning**
 
 - 📫 E-Mail **bhavikrohit22@gmail.com**
 
