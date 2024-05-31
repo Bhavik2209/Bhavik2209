@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavik Rohit</h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavik2209&label=Profile%20views&color=0e75b6&style=flat" alt="bhavik2209" /> </p>
 
